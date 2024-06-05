@@ -64,7 +64,7 @@ Este plano de estudos, intitulado "ResgateDev", foi elaborado para me ajudar a r
         * Assista a palestras, workshops e eventos da área para se conectar com outros profissionais.
 * **30 minutos de intervalo:**
     * Pratique atividades relaxantes ou socialize com amigos e familiares.
-* **1 hora de Inglês (opcional):**
+* **1 hora de Inglês:**
     * Aprimore seu inglês técnico para ler documentação e acompanhar tendências internacionais.
     * Utilize aplicativos, cursos online ou aulas particulares.
 
